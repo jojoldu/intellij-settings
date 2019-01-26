@@ -1,0 +1,21 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-12-01T08:10:48</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.3.0.0</property>
+    <property name="modified">2018-06-19T19:16:24</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_NAME" value="D2Coding" />
+  <option name="CONSOLE_FONT_NAME" value="D2Coding" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <colors>
+    <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="" />
+  </colors>
+</scheme>

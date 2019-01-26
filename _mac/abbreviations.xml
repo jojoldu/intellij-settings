@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="WebServicesPlugin.CreateRESTClient">
+        <abbreviation name="tr" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

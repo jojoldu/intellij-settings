@@ -1,0 +1,36 @@
+<templateSet group="other">
+  <template name="id" value="@Id&#10;@GeneratedValue(strategy = GenerationType.IDENTITY)&#10;private Long id;" description="Entity Id generate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ent" value="import lombok.AccessLevel;&#10;import lombok.Getter;&#10;import lombok.NoArgsConstructor;&#10;&#10;import javax.persistence.Entity;&#10;&#10;@Getter&#10;@NoArgsConstructor(access = AccessLevel.PROTECTED)&#10;@Entity" description="Entity Header" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="dh" value="import lombok.Getter;&#10;import lombok.NoArgsConstructor;&#10;import lombok.Setter;&#10;import lombok.ToString;&#10;&#10;@ToString&#10;@Getter&#10;@Setter&#10;@NoArgsConstructor" description="Request Dto Header" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="table" value="@Table(&#10;    uniqueConstraints = @UniqueConstraint(name = &quot;UNI_&quot;, columnNames = {&quot;columnName&quot;}),&#10;    indexes = {&#10;        @Index(name = &quot;IDX_&quot;, columnList = &quot;columnList&quot;)&#10;    }&#10;)" description="@Table Format" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="bh" value="import lombok.RequiredArgsConstructor;&#10;import lombok.extern.slf4j.Slf4j;&#10;import org.springframework.context.annotation.Configuration;&#10;&#10;@Slf4j&#10;@RequiredArgsConstructor&#10;@Configuration" description="Spring Batch Configuration Header" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="bd" value="public static final String JOB_NAME = &quot;&quot;;&#10;public static final String BEAN_PREFIX = JOB_NAME + &quot;_&quot;;&#10;&#10;private final JobBuilderFactory jobBuilderFactory;&#10;private final StepBuilderFactory stepBuilderFactory;&#10;private final EntityManagerFactory emf;&#10;&#10;@Value(&quot;${chunkSize:1000}&quot;)&#10;private int chunkSize;" description="Spring Batch Configuration Body" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

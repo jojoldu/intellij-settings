@@ -1,0 +1,5 @@
+<application>
+  <component name="ScalaApplicationSettings">
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+</application>

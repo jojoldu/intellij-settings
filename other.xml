@@ -1,0 +1,197 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.14.1" last-modified="1544073097000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AWSCloudFormation.LAST_UPDATE" value="1522146784546" />
+    <property name="AWSCloudFormation.LAST_VERSION" value="0.5.42" />
+    <property name="ColorChooser.RecentColors" value="249-249-249-255,,,255-255-255-255,,,237-252-255-255,,,48-99-191-255,,,116-181-255-255,,,131-187-82-255,,,250-250-250-255,,,255-140-0-255,,,248-248-255-255,,,128-128-128-255,,,40-42-54-255,,,24-54-28-255,,,71-71-71-255,,,47-47-47-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6168091" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6336207" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DEVKIT_SANDBOX_HISTORY" value="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/plugins-sandbox" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Code" />
+    <property name="FileTemplates.SelectedTemplate" value="New Method Body" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.108283706" />
+    <property name="Gradle.Splitter.Proportion" value="0.28880477" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="GradleSupport.hidePassedTests" value="false" />
+    <property name="GradleSupport.showInternalTestNodes" value="false" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="HbAutocompleteMustaches" value="enabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="HbDisableAutoGenerateCloseTag" value="enabled" />
+    <property name="HbFormatter" value="enabled" />
+    <property name="InstalledPluginsSearchHistory" value="pre&#10;jpa&#10;git flow&#10;JSON" />
+    <property name="JUnit.Splitter.Proportion" value="0.26487902" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="clone&#10;goto next&#10;page down&#10;transla&#10;#keymap" />
+    <property name="LAST_INJECTED_LANGUAGE" value="JSON" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="LiveContextsPanel[0]" value="0.16406891" />
+    <property name="LiveContextsPanel[1]" value="0.31007242" />
+    <property name="LiveContextsPanel[2]" value="0.19102196" />
+    <property name="MTBoldTabs" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MochaJavaScriptTestRunner.Splitter.Proportion" value="0.27549753" />
+    <property name="MochaJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="MochaJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="PLUGIN_FILTER" value="jenkins&#10;pipe&#10;Insert Final Modifier&#10;final&#10;spock" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="RunConfigurable.dividerProportion" value="0.23232323" />
+    <property name="SearchEveryWhereHistory" value="Jpa&#10;application.y&#10;ㄸㅌ&#10;ㅁ&#10;ㅕ뼏" />
+    <property name="SettingsSearchHistory" value="live temp&#10;fonts&#10;annotation pro&#10;code template&#10;javascript" />
+    <property name="ShortcutTranslatorSourceKeymap" value="Eclipse" />
+    <property name="ShortcutTranslatorTargetKeymap" value="$default" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="SplitFileEditor.Proportion" value="0.5952381" />
+    <property name="SpringBeansModulesPanel[0]" value="0.105876125" />
+    <property name="SpringBeansModulesPanel[1]" value="0.13927576" />
+    <property name="SpringBeansModulesPanel[2]" value="0.16181229" />
+    <property name="SpringBeansModulesPanel[3]" value="0.19305019" />
+    <property name="SpringMvcModulesPanel[0]" value="0.124455504" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.124455504" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="" />
+    <property name="TrendingPluginsSearchHistory" value="translator&#10;thymeleaf&#10;jpa&#10;lombok&#10;chronon" />
+    <property name="android-component-compatibility-check" value="1531973989856" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="OCEANIC" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="189" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="completion.stats.allow.message.shown" value="true" />
+    <property name="completion.stats.experiment.salt" value="dd66e3db" />
+    <property name="completion.stats.experiment.version" value="3" />
+    <property name="completion.stats.status.updated.ts" value="1539169425894" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="dir.diff.panel.divider.location" value="31" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="erlang.last.update.timestamp" value="1547697742008" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt.163" value="159d58dd009" />
+    <property name="evlsprt2.163" value="1597e01fc19" />
+    <property name="evlsprt3.163" value="17" />
+    <property name="evlsprt3.171" value="19" />
+    <property name="evlsprt3.172" value="10" />
+    <property name="evlsprt3.173" value="16" />
+    <property name="evlsprt3.181" value="16" />
+    <property name="evlsprt3.182" value="14" />
+    <property name="evlsprt3.183" value="15" />
+    <property name="evlsprt3.IU-172.3198.6" value="10" />
+    <property name="evlsprt3.IU-181.3007.14" value="15" />
+    <property name="evlsprt3.IU-181.3494.3" value="15" />
+    <property name="evlsprt3.IU-183.3283.2" value="10" />
+    <property name="exception.accepted.notices" value="182193a2" />
+    <property name="export.settings.path" value="$USER_HOME$/Documents/settings.jar" />
+    <property name="file.gist.reindex.count" value="139909" />
+    <property name="fileTypeChangedCounter" value="153" />
+    <property name="gradle.runner.text.console" value="true" />
+    <property name="gradle.runner.text.console_str" value="true" />
+    <property name="gradle.test.runner.text.console_str" value="false" />
+    <property name="idea.background.editor" value="$USER_HOME$/Desktop/이미지/월e.jpg,15,scale,center" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA IU-171.4073.35" />
+    <property name="js.extract.function.global.scope.was.selected" value="true" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.var.names.completion" value="false" />
+    <property name="kotlin.lastUpdateCheck" value="1538375689639" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="853" />
+    <property name="last.imported.location" value="$USER_HOME$/Documents/git/springboot3/webexam" />
+    <property name="last.used.gradle.home" value="$USER_HOME$/Documents/gradle/gradle-3.2.1" />
+    <property name="lastTip" value="148" />
+    <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="$USER_HOME$/Desktop/이미지/월e.jpg" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="rerun.tests.notification.shown" value="true" />
+    <property name="scala.last.updated" value="1521441883844" />
+    <property name="selected.color.option.type" value="COFFEESCRIPT.JAVASCRIPT_CONTENT" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="settings.code.style.selected.tab.PHP" value="Code Generation" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.742671" />
+    <property name="vcs.log.details.splitter.proportion" value="0.6123595" />
+  </component>
+  <component name="Quick Notes by Jitendra Rana">
+    <option name="selectednoteindex" value="0" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="http://jira.woowa.in">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>[{id}] {summary}</commitMessageFormat>
+      <password>dfccdfc1dfcfdfc6dfcedfc0dfd9dfd2df9adfea</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="7.3.6" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>dwlee</username>
+    </JIRA>
+    <Trello shared="false">
+      <commitMessageFormat>[{summary}]</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="5a62acac2ec54ca5d06e9ca4" name="TODO" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="ILLEGAL_ID" name="-- from all lists --" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="563cef33ceb392b92b430306" name="jojoldu" />
+      </option>
+      <password>df9adf9ddfcbdfcfdfccdfcfdf98df99df9fdf9edf98dfcedf92df93df9edf98df9adf9edf9cdf9fdf99df9cdfcedfc8dfcfdfc8df92df98df99df9fdf9edf92dfcedfcedfcbdf98df9bdfc9dfcedf93dfcedfcfdf9cdf93df9cdf9cdf9cdf9ddf9adf9adf9fdf9cdf9ddfcbdfcedf98df9bdf9fdfcfdf9cdf98df9edf9cdf9e</password>
+      <option name="includeAllCards" value="true" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
+  </component>
+</application>

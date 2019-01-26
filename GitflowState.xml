@@ -1,0 +1,15 @@
+<application>
+  <component name="GitflowState">
+    <option name="taskBranches">
+      <map>
+        <entry key="PT-8" value="feature/feature/PT-8" />
+        <entry key="ST-1261" value="feature/ST-1261" />
+        <entry key="ST-1262" value="feature/ST-1262" />
+        <entry key="ST-1277" value="feature/ST-1277" />
+        <entry key="ST-1286" value="feature/ST-1286" />
+        <entry key="TPBMPG-1573" value="feature/TPBMPG-1573" />
+        <entry key="TPBMPG-1574" value="feature/TPBMPG-1574" />
+      </map>
+    </option>
+  </component>
+</application>
