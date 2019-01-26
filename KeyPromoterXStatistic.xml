@@ -718,7 +718,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>5002</Count>
+          <Count>5007</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -1566,7 +1566,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FcSpringBootApplication'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FirmbankingCompleteBatchMockTest.[바로결제] 펌뱅킹 지급 완료 정상으로 끝나면 PA03이 실행된다.'">
@@ -3329,6 +3329,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FcSpringBootApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'FcSpringBootApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FullImportRegionBatchConfigurationTest.Ruby에서 읽어온 데이터만큼 RDS에 저장된다'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -4886,7 +4894,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FcSpringBootApplication'</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FullImportRegionBatchConfigurationTest.Ruby에서 읽어온 데이터만큼 RDS에 저장된다'">
@@ -6222,7 +6230,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>924</Count>
+          <Count>925</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'image-manager.티스토리에 이미지가 업로드 된다.업로드된 이미지 URL로 마크다운 이미지가 변경된다'">
