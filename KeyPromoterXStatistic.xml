@@ -3425,6 +3425,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'NotRelationJoinTest.관계없을때_조인_맺기'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'NotRelationJoinTest.관계없을때_조인_맺기'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'OrderUsePointClassifierTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
