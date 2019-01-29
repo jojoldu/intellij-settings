@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -718,7 +718,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>5027</Count>
+          <Count>5033</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -2886,7 +2886,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1016</Count>
+          <Count>1017</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2934,7 +2934,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in com.woowabros.point.point-batch.test (1)'</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in com.woowabros.point.point-batch.test'">
@@ -3830,7 +3830,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'UseEarnSourceBatchConfigurationTest.포인트가 배달팁,메뉴로 나뉜뒤에, 취소가 온다'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'UseEarnStatsClassifierTest.UseEarnStats…arnStatsDetail가 UseEarnStats의 자식으로 등록된다.'">
@@ -4214,7 +4214,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All in com.woowabros.point.point-batch.test (1)'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in com.woowabros.point.point-batch.test'">
@@ -5734,7 +5734,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'UseEarnSourceBatchConfigurationTest.배민 키친 적립도 구분된다.'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'UseEarnSourceBatchConfigurationTest.상품권 포인트는 기타로 저장된다 '">
@@ -5774,7 +5774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'UseEarnSourceBatchConfigurationTest.포인트가 배달팁,메뉴로 나뉜뒤에, 취소가 온다'</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'UseEarnSourceCreatorTest'">
@@ -6238,7 +6238,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>928</Count>
+          <Count>929</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'image-manager.티스토리에 이미지가 업로드 된다.업로드된 이미지 URL로 마크다운 이미지가 변경된다'">
