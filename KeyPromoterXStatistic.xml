@@ -718,7 +718,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>5034</Count>
+          <Count>5037</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -2934,7 +2934,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in com.woowabros.point.point-batch.test (1)'</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in com.woowabros.point.point-batch.test'">
