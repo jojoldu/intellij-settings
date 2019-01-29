@@ -718,7 +718,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>5019</Count>
+          <Count>5024</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -2934,7 +2934,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in com.woowabros.point.point-batch.test (1)'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in com.woowabros.point.point-batch.test'">
@@ -3830,7 +3830,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'UseEarnSourceBatchConfigurationTest.포인트가 배달팁,메뉴로 나뉜뒤에, 취소가 온다'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'UseEarnStatsClassifierTest.UseEarnStats…arnStatsDetail가 UseEarnStats의 자식으로 등록된다.'">
