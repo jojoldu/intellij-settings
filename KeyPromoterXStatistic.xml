@@ -2886,7 +2886,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1020</Count>
+          <Count>1021</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2934,7 +2934,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in com.woowabros.point.point-batch.test (1)'</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in com.woowabros.point.point-batch.test'">
@@ -5089,6 +5089,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MonthlyStatsRemainBatchConfigurationTest.[잔여 포인트] 현재 잔여 포인트가 저장된다 '">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MonthlyStatsRemainBatchConfigurationTest.[잔여 포인트] 현재 잔여 포인트가 저장된다 '</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MonthlyStatsUseEarnBatchConfigurationTest.[소멸] 소멸 포인트의 원천이 저장된다'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -6238,7 +6246,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>935</Count>
+          <Count>936</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'image-manager.티스토리에 이미지가 업로드 된다.업로드된 이미지 URL로 마크다운 이미지가 변경된다'">
