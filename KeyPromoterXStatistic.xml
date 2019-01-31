@@ -6254,7 +6254,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>936</Count>
+          <Count>938</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'image-manager.티스토리에 이미지가 업로드 된다.업로드된 이미지 URL로 마크다운 이미지가 변경된다'">
