@@ -718,7 +718,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>5119</Count>
+          <Count>5126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -3598,6 +3598,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'SampleBatchConfigurationTest.샘플 배치'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ShopServiceTest.querydslpredicate_테스트'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ShopServiceTest.querydslpredicate_테스트'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
