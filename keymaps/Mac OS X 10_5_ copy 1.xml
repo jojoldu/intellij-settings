@@ -1,5 +1,9 @@
 <keymap version="1" name="Mac OS X 10.5+ copy 1" parent="Mac OS X 10.5+">
   <action id="CodeCompletion" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
