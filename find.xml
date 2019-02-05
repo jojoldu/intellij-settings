@@ -15,7 +15,7 @@
     <mask>*.mxml</mask>
     <mask>*.snippet</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*.groovy</mask>
+    <mask>*.java</mask>
   </component>
 </application>
