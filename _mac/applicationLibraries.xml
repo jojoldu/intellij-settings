@@ -5,5 +5,10 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/jest-diff" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
