@@ -33,4 +33,10 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="service" value="import lombok.RequiredArgsConstructor;&#10;import lombok.extern.slf4j.Slf4j;&#10;import org.springframework.stereotype.Service;&#10;&#10;@Slf4j&#10;@RequiredArgsConstructor&#10;@Service" description="Spring MVC service Method Header" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
