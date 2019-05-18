@@ -4,7 +4,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="ent" value="import lombok.AccessLevel;&#10;import lombok.Getter;&#10;import lombok.NoArgsConstructor;&#10;&#10;import javax.persistence.Entity;&#10;&#10;@Getter&#10;@NoArgsConstructor(access = AccessLevel.PROTECTED)&#10;@Entity" description="Entity Header" toReformat="false" toShortenFQNames="true">
+  <template name="ent" value="import lombok.AccessLevel;&#10;import lombok.Getter;&#10;import lombok.NoArgsConstructor;&#10;&#10;import javax.persistence.Entity;&#10;&#10;@Getter&#10;@NoArgsConstructor&#10;@Entity" description="Entity Header" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
