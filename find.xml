@@ -16,7 +16,7 @@
     <mask>*.hbs</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
-    <mask>*.groovy</mask>
     <mask>*.js</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
