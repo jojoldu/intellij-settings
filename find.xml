@@ -14,9 +14,9 @@
     <mask>*.mxml</mask>
     <mask>*.snippet</mask>
     <mask>*.hbs</mask>
-    <mask>*.js</mask>
     <mask>*.yml</mask>
-    <mask>*.groovy</mask>
     <mask>*.java</mask>
+    <mask>*.groovy</mask>
+    <mask>*.js</mask>
   </component>
 </application>
