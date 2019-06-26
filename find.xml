@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +17,7 @@
     <mask>*.hbs</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
-    <mask>*.groovy</mask>
     <mask>*.java</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
