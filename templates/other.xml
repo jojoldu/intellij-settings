@@ -39,4 +39,38 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="회고" value="# 년 반기 회고&#10;&#10;![intro](./images/intro.png)&#10;&#10;## 회사&#10;&#10;## 블로그&#10;&#10;## 오픈소스&#10;&#10;## 발표&#10;&#10;## 기타 외부활동&#10;&#10;## 건강&#10;&#10;## 하반기 목표&#10;&#10;## 마무리" description="회고 템플릿" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ACTION_SCRIPT" value="false" />
+      <option name="ASPECTJ" value="false" />
+      <option name="Bash" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ColdFusion" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GSP" value="false" />
+      <option name="HAML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="MXML" value="false" />
+      <option name="OGNL" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SCALA" value="false" />
+      <option name="SQL" value="false" />
+      <option name="SSP" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+      <option name="sbt" value="false" />
+    </context>
+  </template>
 </templateSet>
