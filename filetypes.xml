@@ -7,8 +7,8 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="save-container.hbs" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="cur" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
