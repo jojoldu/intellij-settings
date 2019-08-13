@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="arrowsStyle" value="Darcula" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="userId" value="27adbd37:16c5c45d210:-8000" />
+    <option name="version" value="4.2.2" />
+  </component>
+</application>
