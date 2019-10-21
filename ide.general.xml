@@ -1,6 +1,8 @@
 <application>
   <component name="GeneralSettings">
+    <option name="browserPath" value="/Applications/Google Chrome Canary.app" />
     <option name="showTipsOnStartup" value="false" />
+    <option name="useDefaultBrowser" value="false" />
   </component>
   <component name="Registry">
     <entry key="SBT.system.in.process" value="true" />
@@ -17,7 +19,6 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
-    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.tree.ui.experimental" value="false" />
