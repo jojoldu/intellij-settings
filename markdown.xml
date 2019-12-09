@@ -1,5 +1,5 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings />
+    <MarkdownCssSettings StylesheetUri="https://tistory1.daumcdn.net/tistory/1826700/skin/images/github-markdown.css?ver=20170922" />
   </component>
 </application>
