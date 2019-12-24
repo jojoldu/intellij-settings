@@ -17,10 +17,10 @@
     <mask>*.adoc</mask>
     <mask>*.groovy</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.vue</mask>
     <mask>*.hbs</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
