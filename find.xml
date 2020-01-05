@@ -14,14 +14,14 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.snippet</mask>
-    <mask>*.hbs</mask>
     <mask>*.yml</mask>
     <mask>*.adoc</mask>
     <mask>*.groovy</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.vue</mask>
+    <mask>*.hbs</mask>
+    <mask>*.js</mask>
     <mask>*.java</mask>
   </component>
 </application>
