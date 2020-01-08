@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,12 +16,12 @@
     <mask>*.snippet</mask>
     <mask>*.yml</mask>
     <mask>*.adoc</mask>
-    <mask>*.groovy</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.vue</mask>
     <mask>*.hbs</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
