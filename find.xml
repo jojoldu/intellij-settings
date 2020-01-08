@@ -16,12 +16,12 @@
     <mask>*.snippet</mask>
     <mask>*.yml</mask>
     <mask>*.adoc</mask>
-    <mask>*.groovy</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.vue</mask>
     <mask>*.hbs</mask>
     <mask>*.js</mask>
+    <mask>*.groovy</mask>
     <mask>*.java</mask>
   </component>
 </application>
