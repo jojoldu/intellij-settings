@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="FileService" type="JavaScript" />
       <mapping ext="erb" type="Markdown" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="save-container.hbs" type="PLAIN_TEXT" />
