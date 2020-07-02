@@ -17,8 +17,8 @@
     <mask>*.vue</mask>
     <mask>*.hbs</mask>
     <mask>*.groovy</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
