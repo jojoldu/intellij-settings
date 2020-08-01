@@ -6,37 +6,34 @@
   </template>
   <template name="ent" value="import lombok.Getter;&#10;import lombok.NoArgsConstructor;&#10;&#10;import javax.persistence.Entity;&#10;&#10;@Getter&#10;@NoArgsConstructor&#10;@Entity" description="Entity Header" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
   <template name="dh" value="import lombok.Getter;&#10;import lombok.NoArgsConstructor;&#10;import lombok.Setter;&#10;import lombok.ToString;&#10;&#10;@ToString&#10;@Getter&#10;@Setter&#10;@NoArgsConstructor" description="Request Dto Header" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="table" value="@Table(&#10;    uniqueConstraints = @UniqueConstraint(name = &quot;UNI_&quot;, columnNames = {&quot;columnName&quot;}),&#10;    indexes = {&#10;        @Index(name = &quot;IDX_&quot;, columnList = &quot;columnList&quot;)&#10;    }&#10;)" description="@Table Format" toReformat="false" toShortenFQNames="true">
+  <template name="table" value="@Table(&#10;    uniqueConstraints = @UniqueConstraint(name = &quot;uni_&quot;, columnNames = {&quot;columnName&quot;}),&#10;    indexes = {&#10;        @Index(name = &quot;idx_&quot;, columnList = &quot;columnList&quot;)&#10;    }&#10;)" description="@Table Format" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
   <template name="bh" value="import lombok.RequiredArgsConstructor;&#10;import lombok.extern.slf4j.Slf4j;&#10;import org.springframework.context.annotation.Configuration;&#10;&#10;@Slf4j&#10;@RequiredArgsConstructor&#10;@Configuration" description="Spring Batch Configuration Header" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="GROOVY" value="true" />
-      <option name="JAVA_CODE" value="true" />
-      <option name="KOTLIN" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="bd" value="public static final String JOB_NAME = &quot;&quot;;&#10;public static final String BEAN_PREFIX = JOB_NAME + &quot;_&quot;;&#10;&#10;private final JobBuilderFactory jobBuilderFactory;&#10;private final StepBuilderFactory stepBuilderFactory;&#10;private final EntityManagerFactory emf;&#10;&#10;@Value(&quot;${chunkSize:1000}&quot;)&#10;private int chunkSize;" description="Spring Batch Configuration Body" toReformat="false" toShortenFQNames="true">
+  <template name="bd" value="public static final String JOB_NAME = &quot;&quot;;&#10;public static final String BEAN_PREFIX = JOB_NAME + &quot;_&quot;;&#10;&#10;private final JobBuilderFactory jobBuilderFactory;&#10;private final StepBuilderFactory stepBuilderFactory;&#10;private final EntityManagerFactory emf;&#10;&#10;@Value(&quot;${chunkSize:100}&quot;)&#10;private int chunkSize;" description="Spring Batch Configuration Body" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="GROOVY" value="true" />
       <option name="JAVA_CODE" value="true" />
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="service" value="import lombok.RequiredArgsConstructor;&#10;import lombok.extern.slf4j.Slf4j;&#10;import org.springframework.stereotype.Service;&#10;&#10;@Slf4j&#10;@RequiredArgsConstructor&#10;@Service" description="Spring MVC service Method Header" toReformat="false" toShortenFQNames="true">
+  <template name="sv" value="import lombok.RequiredArgsConstructor;&#10;import lombok.extern.slf4j.Slf4j;&#10;import org.springframework.stereotype.Service;&#10;&#10;@Slf4j&#10;@RequiredArgsConstructor&#10;@Service" description="Spring MVC service Method Header" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="KOTLIN" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
   <template name="회고" value="# 년 반기 회고&#10;&#10;![intro](./images/intro.png)&#10;&#10;## 회사&#10;&#10;## 블로그&#10;&#10;## 오픈소스&#10;&#10;## 발표&#10;&#10;## 기타 외부활동&#10;&#10;## 건강&#10;&#10;## 하반기 목표&#10;&#10;## 마무리" description="회고 템플릿" toReformat="false" toShortenFQNames="true">
@@ -71,6 +68,11 @@
       <option name="Vue" value="false" />
       <option name="XML" value="false" />
       <option name="sbt" value="false" />
+    </context>
+  </template>
+  <template name="st" value="import org.junit.jupiter.api.extension.ExtendWith;&#10;import org.springframework.boot.test.context.SpringBootTest;&#10;import org.springframework.test.context.junit.jupiter.SpringExtension;&#10;&#10;@ExtendWith(SpringExtension.class)&#10;@SpringBootTest" description="Spring Boot Test 5" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
 </templateSet>
