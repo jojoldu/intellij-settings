@@ -1,0 +1,8 @@
+<templateSet group="JavaScript Testing">
+  <template name="test" value="test(&quot;&quot;, () =&gt; {&#10;    expect().toBe();&#10;})" description="Jest test" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

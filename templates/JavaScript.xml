@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="class" value="&#10;class $Name$ {&#10;&#10;    constructor() {&#10;    &#10;    }&#10;}&#10;&#10;export {$Name$}" description="ES6 Class" toReformat="false" toShortenFQNames="true">
+    <variable name="Name" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
