@@ -274,9 +274,8 @@
         <entry key="*.csv">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV Plugin" />
             </plugin>
           </value>
         </entry>
@@ -512,6 +511,14 @@
             <plugin>
               <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
               <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.fnc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -1484,6 +1491,38 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pkb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pkg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pks">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.plsql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.png">
           <value>
             <plugin>
@@ -1538,6 +1577,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.prc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.prettierignore">
           <value>
             <plugin>
@@ -1570,6 +1617,14 @@
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.psql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -1848,9 +1903,8 @@
         <entry key="*.sql">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -2000,11 +2054,35 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tpb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tpe">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tpl">
           <value>
             <plugin>
               <option name="myPluginId" value="com.jetbrains.php" />
               <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tps">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -2014,6 +2092,14 @@
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.trg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -2029,9 +2115,8 @@
         <entry key="*.tsv">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV Plugin" />
             </plugin>
           </value>
         </entry>
@@ -2127,6 +2212,14 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.vue" />
               <option name="myPluginName" value="Vue.js" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vw">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -2863,6 +2956,16 @@
                   <entry key="CucumberJavaRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Cucumber Java" pluginName="Cucumber for Java" pluginId="cucumber-java" />
+                    </value>
+                  </entry>
+                  <entry key="DBNMethodRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DB Method" pluginName="Database Navigator" pluginId="DBN" />
+                    </value>
+                  </entry>
+                  <entry key="DBNStatementRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DB Statement" pluginName="Database Navigator" pluginId="DBN" />
                     </value>
                   </entry>
                   <entry key="DatabaseScript">
