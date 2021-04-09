@@ -1,21 +1,31 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="FileService" type="JavaScript" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="erb" type="Markdown" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="save-container.hbs" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="teamcity" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="cur" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="TSV" />
+      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
+      <mapping ext="yaml" type="YAML_EX" />
+      <mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
